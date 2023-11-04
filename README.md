@@ -11,8 +11,6 @@ J'en ai conclu que je devais écrire "Le manifeste du chapeau gris". Cette premi
 * https://github.com/damballah/lmdcg/blob/main/genesis (le_manifeste_du_chapeau_gris.txt)
 * Il y a une signature et une version Word du document original.
 
-Je ne suis pas sûr de comprendre votre demande. Voulez-vous que je corrige les fautes d'orthographe dans ce texte ou que je vous donne mon avis sur votre manifeste ? Si c'est le premier cas, voici le texte corrigé :
-
 Mais comme je ne suis certainement pas le seul, j'ai eu l'idée (peut-être pas ingénieuse) de traduire mon manifeste en 20 langues que j'ai choisies, pas au hasard mais bon, pour certaines quand même j'y ai réfléchi à deux fois. Pour la traduction en elle-même, j'ai pas été très inventif, j'ai  fait bosser Google et j'ai l'impression qu'il s'en est pas trop mal demerdé.
 
 Voici donc les versions Word (En docx) :
