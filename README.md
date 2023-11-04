@@ -45,5 +45,8 @@ je vous souhaite une bonne navigation et à la prochaine.
 #### License GPL3, copyleft, enjoy ;)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+```sh
 gh[at]damb1.go.yj.fr | A2E8C4FF178B3DBF480D8FF9F796D16A7367DEBB
+```
+
 
