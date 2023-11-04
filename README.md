@@ -1,7 +1,4 @@
 # Le manifeste du chapeau gris / Version 1.0 
-
-<img src="[image url]()" alt="Gray Hat" title="Gray Hat Hacker" />
-
 ![WALL-E et EVE](https://github.com/damballah/lmdcg/blob/main/genesis/GreyHat_157x157.png)
 
 The Gray Hat Manifesto / Version 1.0
