@@ -44,6 +44,7 @@ Bon bah… En espérant que ce manifeste fasse le tour du monde, je vous souhait
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ```sh
+Aussi sur l'IPFS : [ipns://k51qzi5uqu5dm86gkbqtxe82z00xwgzl7xb59smjpwlofnxrpx2gpfwvn8f2rq/](https://ipfs.io/ipns/k51qzi5uqu5dm86gkbqtxe82z00xwgzl7xb59smjpwlofnxrpx2gpfwvn8f2rq)
 gh[at]damb1.go.yj.fr | A2E8C4FF178B3DBF480D8FF9F796D16A7367DEBB
 ```
 
