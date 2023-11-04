@@ -1,7 +1,7 @@
 # Le manifeste du chapeau gris / Version 1.0 
 The Gray Hat Manifesto / Version 1.0
 
-##### Histoire
+#### Histoire
 Voici le texte corrigé avec les fautes d'orthographe soulignées :
 
 Cette idée de créer un manifeste m'est venue lorsque je recherchais des nouveautés sur internet. Alors, rien de dingue non plus, je me posais surtout la question de comment écrit-on un manifeste, de quoi ça peut parler etc... Car créer un manifeste n'est pas nouveau du tout, les manifestes ont une longue histoire qui remonte à l'Antiquité. Dans la Grèce antique, les philosophes écrivaient des manifestes pour exprimer leur vision du monde et pour défendre leurs idées. Platon, par exemple, a écrit un manifeste intitulé : "La République" dans lequel il présentait sa vision d'une société idéale. Je me suis donc dit que je pouvais, à mon niveau, écrire sur quelque chose qui me tenait à coeur, ou du moins qui pouvait représenter des sentiments partagés par certaines personnes.
