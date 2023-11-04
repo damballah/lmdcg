@@ -42,6 +42,6 @@ Il faut bien sur le forker, le modifier si vous le souhaitez, le partager, en pa
 Vous retrouverez les originaux (en fr-FR) ici : 
 
 
-# License GPL3, copyleft, enjoy ;)
+#### License GPL3, copyleft, enjoy ;)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
