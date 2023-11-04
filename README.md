@@ -9,7 +9,7 @@ Etant un informaticien touche à tout depuis moultes années et trouvant toujour
 
 J'en ai conclu que je devais écrire le manifeste du chapeau gris. Cette première version, est celle que j'ai rédigé le 25 octobre 2023 : 
 
-* 
+* https://github.com/damballah/lmdcg/blob/main/genesis/le_manifeste_du_chapeau_gris.txt
 
 
 
