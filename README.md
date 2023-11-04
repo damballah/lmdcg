@@ -15,26 +15,26 @@ J'en ai conclu que je devais écrire le manifeste du chapeau gris. Cette premiè
 Mais comme je ne suis certainement pas le seul, j'ai eu l'idée (peut-être pas ingénieuse) de traduire mon manifeste en 20 langues que j'ai choisies, pas au hazard mais bon, pour certaines quand même j'y ai réfléchi à deux fois.
 
 Les voici donc:
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+  - [Arab](https://github.com/damballah/lmdcg/tree/main/traductions/Arab)
+  - [Chinese](https://github.com/damballah/lmdcg/tree/main/traductions/Chinese)
+  - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
+  - [English](https://github.com/damballah/lmdcg/tree/main/traductions/English)
+  - [Espéranto](https://github.com/damballah/lmdcg/tree/main/traductions/)
+  - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
+  - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
+  - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
+  - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
+  - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
+  - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
+  - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
+  - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
+  - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
+  - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
+  - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
+  - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
+  - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
+  - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
+  - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
 
 
 
