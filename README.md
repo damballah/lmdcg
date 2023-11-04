@@ -2,7 +2,7 @@
 ![WALL-E et EVE](https://github.com/damballah/lmdcg/blob/main/genesis/GreyHat_157x157.png)
 
 The Gray Hat Manifesto / Version 1.0
-#### Histoire
+### Histoire
 Cette idée de créer un manifeste m'est venue lorsque je recherchais des nouveautés sur internet. Alors, rien de dingue non plus, je me posais surtout la question de comment écrit-on un manifeste, de quoi ça peut parler etc... Car créer un manifeste n'est pas nouveau du tout, les manifestes ont une longue histoire qui remonte à l'Antiquité. Dans la Grèce antique, les philosophes écrivaient des manifestes pour exprimer leur vision du monde et pour défendre leurs idées. Platon, par exemple, a écrit un manifeste intitulé : "La République" dans lequel il présentait sa vision d'une société idéale. Je me suis donc dit que je pouvais, à mon niveau, écrire sur quelque chose qui me tenait à coeur, ou du moins qui pouvait représenter des sentiments partagés par certaines personnes.
 
 Etant un informaticien touche à tout depuis moult années et trouvant toujours des astuces pour on va dire... Payer le moins possible (pratiquement jamais), je me suis demandé dans quelle catégorie "informatique" je pouvais bien me situer... Et là, surprise, apparemment, je serais un "Gray Hat", un chapeau gris. Entre le bien et le mal, je ne sais pas, je ne veux pas me décider. Alors sans m'éterniser sur mon cas personnel, je pense que je ne suis vraiment pas le seul à pratiquer cette discipline, je suis persuadé même que nous sommes extrêmement nombreux, bien plus que les "White Hat" et les "Black Hat".
