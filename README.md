@@ -7,7 +7,7 @@ Alors, rien de dingue non plus, je me posait surtout la question de comment écr
 
 Etant un informaticien touche à tout depuis moultes années et trouvant toujours des astuces pour on va dire... Payer le moins possible (pratiquement jamais), je me suis demandé dans quelle catégorie "informatique" je pouvais bien me situer... Et là, surprise, apparament, je serait un "Gray Hat", un chapeau gris. Entre le bien et le mal, je ne sais pas, je ne veux pas me décider. Alors sans m'éterniser sur mon cas personnel, je pense que je ne suis vraiment pas le seul à pratiquer cette dicipline, je suis persuadé même que nous sommes extrèmement nombreux, bien plus que les "White Hat" et les "Black Hat".
 
-J'en ai conclu que je devais écrire le manifeste du chapeau gris. Cette première version, est celle que j'ai rédigé le 25 octobre 2023 : 
+J'en ai conclu que je devais écrire "Le manifeste du chapeau gris". Cette première version, est celle que j'ai rédigé le 25 octobre 2023 : 
 
 * https://github.com/damballah/lmdcg/blob/main/genesis (le_manifeste_du_chapeau_gris.txt)
 * Il y a une signature et une version Word du document original.
@@ -36,8 +36,12 @@ Voici donc les versions Word (En docx) :
   - [Ukrainian](https://github.com/damballah/lmdcg/tree/main/traductions/Ukrainian)
   - [Zulu](https://github.com/damballah/lmdcg/tree/main/traductions/Zulu)
 
+Ce projet, il est simple, ce n'est pas un truc de fou, c'est juste un texte revendicateur, un essai, donc si vous vous retrouver un peu dedans, c'est cool.
+Il faut bien sur le forker, le modifier si vous le souhaitez, le partager, en parler, l'uploader partout où vous pourrez l'uploader, moi c'est ce que j'ai fait.
+
+Vous retrouverez les originaux (en fr-FR) ici : 
 
 
-# License
+# License GPL3, copyleft, enjoy ;)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
