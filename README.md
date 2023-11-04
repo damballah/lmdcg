@@ -9,8 +9,32 @@ Etant un informaticien touche à tout depuis moultes années et trouvant toujour
 
 J'en ai conclu que je devais écrire le manifeste du chapeau gris. Cette première version, est celle que j'ai rédigé le 25 octobre 2023 : 
 
-* https://github.com/damballah/lmdcg/blob/main/genesis/le_manifeste_du_chapeau_gris.txt
+* https://github.com/damballah/lmdcg/blob/main/genesis (le_manifeste_du_chapeau_gris.txt)
+* Il y a une signature et une version Word du document original.
 
+Mais comme je ne suis certainement pas le seul, j'ai eu l'idée (peut-être pas ingénieuse) de traduire mon manifeste en 20 langues que j'ai choisies, pas au hazard mais bon, pour certaines quand même j'y ai réfléchi à deux fois.
+
+Les voici donc:
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 
 
