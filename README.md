@@ -39,9 +39,10 @@ Voici donc les versions Word (En docx) :
 Ce projet, il est simple, ce n'est pas un truc de fou, c'est juste un texte revendicateur, un essai, donc si vous vous retrouver un peu dedans, c'est cool.
 Il faut bien sur le forker, le modifier si vous le souhaitez, le partager, en parler, l'uploader partout où vous pourrez l'uploader, moi c'est ce que j'ai fait.
 
-Vous retrouverez les originaux (en fr-FR) ici : 
-
+Bon bah... En espérant que ce manifeste fasse le tour du monde, 
+je vous souhaite une bonne navigation et à la prochaine.
 
 #### License GPL3, copyleft, enjoy ;)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+gh[at]damb1.go.yj.fr|A2E8C4FF178B3DBF480D8FF9F796D16A7367DEBB
 
