@@ -12,9 +12,9 @@ J'en ai conclu que je devais écrire le manifeste du chapeau gris. Cette premiè
 * https://github.com/damballah/lmdcg/blob/main/genesis (le_manifeste_du_chapeau_gris.txt)
 * Il y a une signature et une version Word du document original.
 
-Mais comme je ne suis certainement pas le seul, j'ai eu l'idée (peut-être pas ingénieuse) de traduire mon manifeste en 20 langues que j'ai choisies, pas au hazard mais bon, pour certaines quand même j'y ai réfléchi à deux fois.
+Mais comme je ne suis certainement pas le seul, j'ai eu l'idée (peut-être pas ingénieuse) de traduire mon manifeste en 20 langues que j'ai choisies, pas au hazard mais bon, pour certaines quand même j'y ai réfléchi à deux fois. Pour la traduction en elle-même, j'ai pas été très inventif, j'ai  fait bossé Google et j'ai l'impression qu'il ne sait pas trop mal démerdé.
 
-Les voici donc:
+Voici donc les versions Word (En docx) :
   - [Arab](https://github.com/damballah/lmdcg/tree/main/traductions/Arab)
   - [Chinese](https://github.com/damballah/lmdcg/tree/main/traductions/Chinese)
   - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
@@ -28,13 +28,13 @@ Les voici donc:
   - [Nederlands](https://github.com/damballah/lmdcg/tree/main/traductions/Nederlands)
   - [Português](https://github.com/damballah/lmdcg/tree/main/traductions/Português)
   - [Russian](https://github.com/damballah/lmdcg/tree/main/traductions/Russian)
-  - [Scottish Gaelic](https://github.com/damballah/lmdcg/tree/main/traductions/Scottish Gaelic)
-  - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
-  - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
-  - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
-  - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
-  - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
-  - [Deutsch](https://github.com/damballah/lmdcg/tree/main/traductions/Deutsch)
+  - [Scottish Gaelic](https://github.com/damballah/lmdcg/tree/main/traductions/Scottish%20Gaelic)
+  - [Spanish](https://github.com/damballah/lmdcg/tree/main/traductions/Spanish)
+  - [Swedish](https://github.com/damballah/lmdcg/tree/main/traductions/Swedish)
+  - [Thai](https://github.com/damballah/lmdcg/tree/main/traductions/Thai)
+  - [Turkish](https://github.com/damballah/lmdcg/tree/main/traductions/Turkish)
+  - [Ukrainian](https://github.com/damballah/lmdcg/tree/main/traductions/Ukrainian)
+  - [Zulu](https://github.com/damballah/lmdcg/tree/main/traductions/Zulu)
 
 
 
