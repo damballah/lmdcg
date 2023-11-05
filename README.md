@@ -45,7 +45,7 @@ Bon bah… En espérant que ce manifeste fasse le tour du monde, je vous souhait
 
 ```sh
 # Le manifeste du chapeau gris est aussi présent sur le réseau Tor et sur l'IPFS #
-Lien Tor : http://ik4y23kvftjmlkqkrrtzajduxh75zb6pyaqtpj5lipeqghfcegvobvqd.onion/
+Lien Tor : http://ik4y23kvftjmlkqkrrtzajduxh75zb6pyaqtpj5lipeqghfcegvobvqd.onion/ (lorsque le service est online)
 Lien IPFS : https://ipfs.io/ipfs/bafybeia6qv6xwnjnldcfw2akrcxp4a2iqmmyadhocsz3w25tf6y55i44ga/
 ou à importer en local sur votre noeud IPFS : QmQPnzwjbeJyheQV9nKNCtVTYCZYfcZHvJ65M84eM8USbH
 # Contact #
