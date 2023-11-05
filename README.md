@@ -60,13 +60,13 @@ https://hastebin.com/share/miqoyoqewa.xml
 
 [Le manifeste du chapeau gris (github.com)](https://gist.github.com/damballah/50bb824df690b700b60263446fb06103)
 
-[wordpress 1](https://govelop264.wordpress.com/) Français
+[Site wordpress 1](https://govelop264.wordpress.com/) Français
 
-[wordpress 2](https://cranford40.wordpress.com/) English
+[Site wordpress 2](https://cranford40.wordpress.com/) English
 
-[WIX](https://ente1931.wixsite.com/das-grey-hat-manifes/) Deutsch 
+[Site WIX](https://ente1931.wixsite.com/das-grey-hat-manifes/) Deutsch 
 
-[Reddit](https://www.reddit.com/r/Spanish/comments/17ohvdl/aita_el_manifiesto_del_sombrero_gris/) Spanish
+[Compte Reddit](https://www.reddit.com/r/Spanish/comments/17ohvdl/aita_el_manifiesto_del_sombrero_gris/) Spanish
 
 Bon bah… En espérant que ce manifeste fasse le tour du monde, je vous souhaite une bonne navigation et à la prochaine.
 
