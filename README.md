@@ -64,7 +64,7 @@ https://hastebin.com/share/miqoyoqewa.xml
 
 [Site wordpress 2](https://cranford40.wordpress.com/) English
 
-[Site WIX](https://ente1931.wixsite.com/das-grey-hat-manifes/) Deutsch 
+[Site WIX](https://ente1931.wixsite.com/das-grey-hat-manifes/post/das-grauhut-manifest) Deutsch 
 
 [Compte Reddit](https://www.reddit.com/r/Spanish/comments/17ohvdl/aita_el_manifiesto_del_sombrero_gris/) Spanish
 
