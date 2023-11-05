@@ -39,15 +39,25 @@ Voici donc les versions Word (En docx) :
 Ce projet, il est simple, ce n’est pas un truc de fou, c’est juste un texte revendicateur, un essai, donc si vous vous retrouvez un peu dedans, c’est cool. Il faut bien sûr le forker, le modifier si vous le souhaitez, le partager, en parler, l’uploader partout où vous pourrez l’uploader, moi c’est ce que j’ai fait : 
 
 [paste.sh · encrypted pastebin](https://www.paste.sh/0r5i1_f1#souUdnr-mjJTflQu6BkTy8kd)
+
 [Le manifeste du chapeau gris - Pastebin.com](https://pastebin.com/WLHA0Exn)
+
 [Le manifeste du chapeau gris - Pastes.io](https://pastes.io/mf86sb7xll)
+
 [Untitled Paste | paste.fo](https://paste.fo/9f85b535be26)
+
 [LE MANIFESTE DU CHAPEAU GRIS — Write.as](https://write.as/utb6f58nx5vdl.md)
+
 [Le manifeste du chapeau gris - shared code (paste-bin.xyz)](https://paste-bin.xyz/8106462)
+
 [Pastitude (nobin.dev)](https://pastitude.nobin.dev/NNDZfjxQ#wMtlvZdSk/gq9M8IxseSHphnZ0drLxFL) (pour un an, expire le 05/11/2024)
+
 [Le manifeste du chapeau gris - JustPaste.it](https://justpaste.it/8muee)
+
 [Le manifeste du chapeau gris - snippet.host](https://snippet.host/jwxctm)
+
 https://hastebin.com/share/miqoyoqewa.xml
+
 [Le manifeste du chapeau gris (github.com)](https://gist.github.com/damballah/50bb824df690b700b60263446fb06103)
 
 Bon bah… En espérant que ce manifeste fasse le tour du monde, je vous souhaite une bonne navigation et à la prochaine.
